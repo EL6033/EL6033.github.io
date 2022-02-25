@@ -1,0 +1,10 @@
+dd{
+    color: #000;
+    font-size:40px;
+    font-weight:bold;
+    text-shadow: 
+        0 -3px 2px #ff3,
+        1px -5px 3px #fd3,
+        -1px -6px 5px #f80,
+        1px -9px 9px #f20,
+}
