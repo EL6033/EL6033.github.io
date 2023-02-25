@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Quantum Computing 2023 Lab </title>
+		<link rel="icon" href="icon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+		<h1>Quantum Computing 2023 Lab</h1>
+		<link rel="stylesheet" href = "styles.css">
+    </head>
+    <body>
+        <dl>
+            <dd><a href = "Quantum computing 2023 lab/LAB 2.ipynb">LAB1</a></dd>
+            <dd><a href = "Quantum computing 2023 lab/LAB 3(Beginner).ipynb">LAB2(Beginner level)</a></dd>
+            <dd><a href = "Quantum computing 2023 lab/LAB 3(Advance).ipynb">LAB2(Advance level)</a></dd>
+        </dl> 
+ 
