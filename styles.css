@@ -1,10 +1,23 @@
-dd{
-    color: #000;
-    font-size:13px;
-    font-weight:bold;
-    text-shadow: 
-        0 -3px 2px #ff3,
-        1px -5px 3px #fd3,
-        -1px -6px 5px #f80,
-        1px -9px 9px #f20,
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+dl{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+ul{
+    color: white;
 }
